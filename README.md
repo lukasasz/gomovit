@@ -1,6 +1,6 @@
 # Gomovit
 
-Gomovit is a React-based web application showcasing our innovative wristbands. Inspired by the sleek design of apple.com, it presents a modern, minimalist UI for our fitness tracking products.
+Gomovit is a React-based web application showcasing our innovative wristbands. It presents a modern, minimalist UI for our fitness tracking products.
 
 ## Features
 
